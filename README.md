@@ -13,7 +13,7 @@
             {
                 for (secondNumber = 97; secondNumber <= 122; secondNumber++)
                 {
-                    this.lstAlphabet.Items.Add(Char.ConvertFromUtf32(firstNumber) + " --> " +                                                    Char.ConvertFromUtf32(secondNumber));
+                    this.lstAlphabet.Items.Add(Char.ConvertFromUtf32(firstNumber) + " --> " + Char.ConvertFromUtf32(secondNumber));
                 }                   
             }
         }

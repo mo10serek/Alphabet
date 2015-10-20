@@ -1,29 +1,4 @@
-/*
-* Created by: Michael
-* Created on: 20-0ct-2015
-* Created for: ICS3U
-* Daily Assignment – Unit#3-13
-* This program show the alphabet
-*/
 
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace Alphabet
-{
-    public partial class frmAlphabet : Form
-    {
-        public frmAlphabet()
-        {
-            InitializeComponent();
-        }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
